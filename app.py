@@ -7,7 +7,8 @@ from collections import defaultdict
 # 1. PAGE CONFIG & ENTERPRISE CSS STYLING
 # ---------------------------------------------------------
 st.set_page_config(
-    page_title="Schedulync | Enterprise Campus Scheduler",
+    page_title="st.markdown("### 🎓 Riphah International University — Schedulync Enterprise Timetable Engine")
+st.markdown("Multi-Department Management • Block-Wise Location Mapping • Student Clash Auditing"),
     page_icon="🎓",
     layout="wide",
     initial_sidebar_state="expanded"
